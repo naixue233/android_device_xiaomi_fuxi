@@ -13,7 +13,7 @@ SoC     | Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)
 CPU     | Octa-core (1x3.2 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)
 GPU     | Adreno 740
 Memory  | 128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM
-Shipped Android Version | Android 13
+Shipped Android Version | Android 13 Android 14
 Battery | Li-Po 4500 mAh, non-removable
 Display | 1080 x 2400 pixels, 20:9 ratio (~414 ppi density), AMOLED, 120Hz, Dolby Vision, HDR10+, 1200 nits (HBM), 1900 nits (peak)
 
